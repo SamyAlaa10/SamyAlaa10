@@ -10,7 +10,6 @@
 <h2>🚀 About Me</h2> 
 <p> Iam Full Stack developer with Angular and .Net Core <br/>
   I have a good knowledge about the Front End field. and Back End<br/>
-  Seek a progressive organization that provides an opportunity to capitalize on my technical skills.
 </p>
 
 
