@@ -5,9 +5,6 @@
     
 </h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20web%20developer;I%20always%20improving%20my%20skills&font=Kalam&weight=700&pause=1000&color=2196F3&center=true&width=435"></a>
-</p> 
 
 
 <h2>🚀 About Me</h2> 
