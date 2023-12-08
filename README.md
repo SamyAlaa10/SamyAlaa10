@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
     Welcome to Samy Alaa profile!
-    <img src="https://komarev.com/ghpvc/?username=Hitch12&style=flat-square&label=VIEWS">
+    
 </h1>
 
 <p align="center">
