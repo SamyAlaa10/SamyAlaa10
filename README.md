@@ -34,10 +34,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-013?style=for-the-badge&logo=sass)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-013?style=for-the-badge&logo=redux)&nbsp;
 ![Angular.js](https://img.shields.io/badge/-Angular-013?style=for-the-badge&logo=angular)&nbsp;
-![Git](https://img.shields.io/badge/-Git-013?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-013?style=for-the-badge&logo=github)&nbsp;
 ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-013.svg?style=for-the-badge&logo=database&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-013.svg?style=for-the-badge&logo=notion&logoColor=white)
  
  
 
